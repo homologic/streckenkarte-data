@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 0 plain-ascend = -2 cost=466 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Landsberg an der Warthe (0.2km)</name>
+  <trkseg>
+   <trkpt lat="52.729966" lon="15.230166"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729957" lon="15.230036"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729942" lon="15.229822"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729908" lon="15.22963"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729895" lon="15.229568"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729882" lon="15.229503"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729878" lon="15.229456"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729866" lon="15.229307"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729843" lon="15.229213"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.72981" lon="15.229152"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.729781" lon="15.229116"><ele>25.5</ele></trkpt>
+   <trkpt lat="52.729771" lon="15.229107"><ele>25.5</ele></trkpt>
+   <trkpt lat="52.729734" lon="15.229081"><ele>25.5</ele></trkpt>
+   <trkpt lat="52.729638" lon="15.229055"><ele>25.5</ele></trkpt>
+   <trkpt lat="52.729117" lon="15.229072"><ele>24.75</ele></trkpt>
+   <trkpt lat="52.729052" lon="15.229074"><ele>24.5</ele></trkpt>
+   <trkpt lat="52.728622" lon="15.229083"><ele>23.5</ele></trkpt>
+   <trkpt lat="52.728511" lon="15.229081"><ele>23.25</ele></trkpt>
+   <trkpt lat="52.728378" lon="15.229085"><ele>22.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

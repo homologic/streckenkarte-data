@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1641 filtered ascend = 1 plain-ascend = 0 cost=3282 energy=0.0kwh time=2m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Landsberg an der Warthe (1.6km)</name>
+  <trkseg>
+   <trkpt lat="52.751621" lon="15.260502"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.751845" lon="15.260806"><ele>71</ele></trkpt>
+   <trkpt lat="52.752062" lon="15.261101"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.752536" lon="15.261756"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.752745" lon="15.261966"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.754151" lon="15.263897"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.754348" lon="15.264162"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.754489" lon="15.264352"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.7546" lon="15.264502"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.756334" lon="15.266875"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.756723" lon="15.267399"><ele>60</ele></trkpt>
+   <trkpt lat="52.756805" lon="15.267521"><ele>60</ele></trkpt>
+   <trkpt lat="52.75699" lon="15.267768"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.75716" lon="15.268007"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.757253" lon="15.268127"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.757273" lon="15.268154"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.757308" lon="15.268205"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.760296" lon="15.272274"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.760421" lon="15.272445"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.760449" lon="15.272482"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.760553" lon="15.27262"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.760827" lon="15.273003"><ele>68</ele></trkpt>
+   <trkpt lat="52.760945" lon="15.273161"><ele>68.25</ele></trkpt>
+   <trkpt lat="52.760964" lon="15.273188"><ele>68.25</ele></trkpt>
+   <trkpt lat="52.76255" lon="15.275347"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.762726" lon="15.275585"><ele>70</ele></trkpt>
+   <trkpt lat="52.762782" lon="15.275697"><ele>70</ele></trkpt>
+   <trkpt lat="52.762841" lon="15.275818"><ele>70</ele></trkpt>
+   <trkpt lat="52.762983" lon="15.276013"><ele>70.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

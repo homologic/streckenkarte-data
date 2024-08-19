@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 845 filtered ascend = 0 plain-ascend = 0 cost=1690 energy=0.0kwh time=1m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>obvod Praha 1 (0.8km)</name>
+  <trkseg>
+   <trkpt lat="50.089" lon="14.430929"/>
+   <trkpt lat="50.088627" lon="14.429903"/>
+   <trkpt lat="50.088351" lon="14.429193"/>
+   <trkpt lat="50.088246" lon="14.42895"/>
+   <trkpt lat="50.088149" lon="14.428747"/>
+   <trkpt lat="50.088049" lon="14.428544"/>
+   <trkpt lat="50.087941" lon="14.428347"/>
+   <trkpt lat="50.087821" lon="14.428149"/>
+   <trkpt lat="50.087589" lon="14.427804"/>
+   <trkpt lat="50.087461" lon="14.427629"/>
+   <trkpt lat="50.087223" lon="14.427363"/>
+   <trkpt lat="50.087081" lon="14.427219"/>
+   <trkpt lat="50.086804" lon="14.426975"/>
+   <trkpt lat="50.08666" lon="14.426871"/>
+   <trkpt lat="50.085604" lon="14.426261"/>
+   <trkpt lat="50.08531" lon="14.42604"/>
+   <trkpt lat="50.085168" lon="14.425917"/>
+   <trkpt lat="50.084891" lon="14.42565"/>
+   <trkpt lat="50.084757" lon="14.425505"/>
+   <trkpt lat="50.084606" lon="14.425329"/>
+   <trkpt lat="50.08446" lon="14.425144"/>
+   <trkpt lat="50.084319" lon="14.424949"/>
+   <trkpt lat="50.084182" lon="14.424747"/>
+   <trkpt lat="50.083926" lon="14.424316"/>
+   <trkpt lat="50.083727" lon="14.423881"/>
+   <trkpt lat="50.08348" lon="14.423301"/>
+  </trkseg>
+ </trk>
+</gpx>

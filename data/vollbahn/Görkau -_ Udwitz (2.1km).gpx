@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2054 filtered ascend = 25 plain-ascend = 26 cost=2054 energy=0.0kwh time=2m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Görkau -&gt; Udwitz (2.1km)</name>
+  <trkseg>
+   <trkpt lat="50.492817" lon="13.448848"><ele>312.75</ele></trkpt>
+   <trkpt lat="50.492555" lon="13.448839"><ele>313</ele></trkpt>
+   <trkpt lat="50.490722" lon="13.448801"><ele>314</ele></trkpt>
+   <trkpt lat="50.490385" lon="13.448798"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.49017" lon="13.448791"><ele>315.75</ele></trkpt>
+   <trkpt lat="50.489618" lon="13.448771"><ele>316.75</ele></trkpt>
+   <trkpt lat="50.489278" lon="13.448746"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.489167" lon="13.448716"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.488796" lon="13.448587"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.488421" lon="13.448386"><ele>317</ele></trkpt>
+   <trkpt lat="50.48814" lon="13.448159"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.488017" lon="13.448047"><ele>317.75</ele></trkpt>
+   <trkpt lat="50.487796" lon="13.447817"><ele>318</ele></trkpt>
+   <trkpt lat="50.48744" lon="13.447329"><ele>317.75</ele></trkpt>
+   <trkpt lat="50.487313" lon="13.447128"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.487196" lon="13.446903"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.486095" lon="13.444571"><ele>320.5</ele></trkpt>
+   <trkpt lat="50.485513" lon="13.443335"><ele>322.25</ele></trkpt>
+   <trkpt lat="50.485403" lon="13.443121"><ele>323.25</ele></trkpt>
+   <trkpt lat="50.4853" lon="13.442942"><ele>324.25</ele></trkpt>
+   <trkpt lat="50.485102" lon="13.442636"><ele>326</ele></trkpt>
+   <trkpt lat="50.485066" lon="13.442592"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.484921" lon="13.442408"><ele>327</ele></trkpt>
+   <trkpt lat="50.484789" lon="13.442259"><ele>327</ele></trkpt>
+   <trkpt lat="50.484516" lon="13.441987"><ele>327</ele></trkpt>
+   <trkpt lat="50.484401" lon="13.441893"><ele>327</ele></trkpt>
+   <trkpt lat="50.484153" lon="13.441729"><ele>326.5</ele></trkpt>
+   <trkpt lat="50.483931" lon="13.441609"><ele>326.5</ele></trkpt>
+   <trkpt lat="50.483716" lon="13.441514"><ele>326.5</ele></trkpt>
+   <trkpt lat="50.483447" lon="13.441436"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.482558" lon="13.441287"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.48201" lon="13.441193"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.481797" lon="13.441156"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.481288" lon="13.441024"><ele>330.5</ele></trkpt>
+   <trkpt lat="50.480893" lon="13.440895"><ele>332.5</ele></trkpt>
+   <trkpt lat="50.480404" lon="13.440722"><ele>332</ele></trkpt>
+   <trkpt lat="50.479993" lon="13.440595"><ele>331.25</ele></trkpt>
+   <trkpt lat="50.479618" lon="13.440452"><ele>333</ele></trkpt>
+   <trkpt lat="50.479288" lon="13.440293"><ele>334.5</ele></trkpt>
+   <trkpt lat="50.478741" lon="13.440073"><ele>335.25</ele></trkpt>
+   <trkpt lat="50.477536" lon="13.439425"><ele>334.75</ele></trkpt>
+   <trkpt lat="50.477366" lon="13.43932"><ele>335.25</ele></trkpt>
+   <trkpt lat="50.477205" lon="13.439207"><ele>336</ele></trkpt>
+   <trkpt lat="50.476929" lon="13.438991"><ele>337</ele></trkpt>
+   <trkpt lat="50.476788" lon="13.438862"><ele>337.5</ele></trkpt>
+   <trkpt lat="50.476648" lon="13.438716"><ele>338</ele></trkpt>
+   <trkpt lat="50.476551" lon="13.438605"><ele>338.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

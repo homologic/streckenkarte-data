@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 841 filtered ascend = 0 plain-ascend = 0 cost=1682 energy=0.0kwh time=1m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bornheim&amp;#x2F;Ostend (0.8km)</name>
+  <trkseg>
+   <trkpt lat="50.112274" lon="8.707532"/>
+   <trkpt lat="50.1125" lon="8.707106"/>
+   <trkpt lat="50.112807" lon="8.706551"/>
+   <trkpt lat="50.113" lon="8.70623"/>
+   <trkpt lat="50.113299" lon="8.705555"/>
+   <trkpt lat="50.114025" lon="8.704367"/>
+   <trkpt lat="50.114357" lon="8.703853"/>
+   <trkpt lat="50.11483" lon="8.703112"/>
+   <trkpt lat="50.114982" lon="8.702803"/>
+   <trkpt lat="50.115133" lon="8.7024"/>
+   <trkpt lat="50.115218" lon="8.701997"/>
+   <trkpt lat="50.115295" lon="8.701451"/>
+   <trkpt lat="50.115358" lon="8.700685"/>
+   <trkpt lat="50.115377" lon="8.700171"/>
+   <trkpt lat="50.115387" lon="8.698389"/>
+   <trkpt lat="50.11539" lon="8.69771"/>
+   <trkpt lat="50.115396" lon="8.697469"/>
+  </trkseg>
+ </trk>
+</gpx>

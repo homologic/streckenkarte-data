@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1374 filtered ascend = 2 plain-ascend = 3 cost=1374 energy=0.0kwh time=1m 50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bornheim&amp;#x2F;Ostend -&gt; Süd (1.4km)</name>
+  <trkseg>
+   <trkpt lat="50.107697" lon="8.698512"><ele>100</ele></trkpt>
+   <trkpt lat="50.107678" lon="8.698508"><ele>100</ele></trkpt>
+   <trkpt lat="50.106768" lon="8.698279"><ele>100</ele></trkpt>
+   <trkpt lat="50.106462" lon="8.698198"><ele>100</ele></trkpt>
+   <trkpt lat="50.105786" lon="8.69802"><ele>100</ele></trkpt>
+   <trkpt lat="50.105689" lon="8.697994"><ele>100</ele></trkpt>
+   <trkpt lat="50.104898" lon="8.697725"><ele>100</ele></trkpt>
+   <trkpt lat="50.104369" lon="8.697408"><ele>100</ele></trkpt>
+   <trkpt lat="50.104051" lon="8.697151"><ele>100</ele></trkpt>
+   <trkpt lat="50.103627" lon="8.696642"><ele>100</ele></trkpt>
+   <trkpt lat="50.103377" lon="8.696252"><ele>100</ele></trkpt>
+   <trkpt lat="50.103137" lon="8.695788"><ele>100</ele></trkpt>
+   <trkpt lat="50.103007" lon="8.695489"><ele>100</ele></trkpt>
+   <trkpt lat="50.10287" lon="8.695109"><ele>100</ele></trkpt>
+   <trkpt lat="50.102662" lon="8.694431"><ele>100</ele></trkpt>
+   <trkpt lat="50.102471" lon="8.693668"><ele>100</ele></trkpt>
+   <trkpt lat="50.102284" lon="8.692927"><ele>100</ele></trkpt>
+   <trkpt lat="50.102258" lon="8.692825"><ele>100</ele></trkpt>
+   <trkpt lat="50.101946" lon="8.691578"><ele>100</ele></trkpt>
+   <trkpt lat="50.101944" lon="8.691569"><ele>100</ele></trkpt>
+   <trkpt lat="50.101836" lon="8.691192"><ele>100</ele></trkpt>
+   <trkpt lat="50.101672" lon="8.690681"><ele>100</ele></trkpt>
+   <trkpt lat="50.101565" lon="8.690388"><ele>100</ele></trkpt>
+   <trkpt lat="50.101483" lon="8.690188"><ele>100</ele></trkpt>
+   <trkpt lat="50.101298" lon="8.689778"><ele>100</ele></trkpt>
+   <trkpt lat="50.101056" lon="8.689272"><ele>100</ele></trkpt>
+   <trkpt lat="50.100931" lon="8.68901"><ele>100</ele></trkpt>
+   <trkpt lat="50.100751" lon="8.688643"><ele>100</ele></trkpt>
+   <trkpt lat="50.100427" lon="8.687984"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.100336" lon="8.687788"><ele>100.5</ele></trkpt>
+   <trkpt lat="50.100153" lon="8.687391"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.099898" lon="8.686825"><ele>101</ele></trkpt>
+   <trkpt lat="50.099852" lon="8.686721"><ele>101</ele></trkpt>
+   <trkpt lat="50.099706" lon="8.686415"><ele>101.75</ele></trkpt>
+   <trkpt lat="50.099529" lon="8.686016"><ele>102.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

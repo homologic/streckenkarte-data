@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3778 filtered ascend = 7 plain-ascend = 7 cost=3778 energy=0.0kwh time=5m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Küstriner Vorland -&gt; Kostrzyn upon Oder (3.8km)</name>
+  <trkseg>
+   <trkpt lat="52.568963" lon="14.609731"><ele>11</ele></trkpt>
+   <trkpt lat="52.56898" lon="14.609771"><ele>11</ele></trkpt>
+   <trkpt lat="52.56907" lon="14.609986"><ele>11</ele></trkpt>
+   <trkpt lat="52.56926" lon="14.610444"><ele>11</ele></trkpt>
+   <trkpt lat="52.569351" lon="14.610699"><ele>11</ele></trkpt>
+   <trkpt lat="52.569412" lon="14.61088"><ele>11</ele></trkpt>
+   <trkpt lat="52.569502" lon="14.611137"><ele>11.25</ele></trkpt>
+   <trkpt lat="52.569553" lon="14.611264"><ele>11.5</ele></trkpt>
+   <trkpt lat="52.569679" lon="14.611544"><ele>11.75</ele></trkpt>
+   <trkpt lat="52.569864" lon="14.611913"><ele>12</ele></trkpt>
+   <trkpt lat="52.569967" lon="14.612155"><ele>12</ele></trkpt>
+   <trkpt lat="52.57003" lon="14.612315"><ele>12</ele></trkpt>
+   <trkpt lat="52.570169" lon="14.612691"><ele>11.75</ele></trkpt>
+   <trkpt lat="52.570437" lon="14.6135"><ele>12</ele></trkpt>
+   <trkpt lat="52.570512" lon="14.613701"><ele>12.25</ele></trkpt>
+   <trkpt lat="52.570716" lon="14.614159"><ele>12.75</ele></trkpt>
+   <trkpt lat="52.570847" lon="14.614418"><ele>12.5</ele></trkpt>
+   <trkpt lat="52.571167" lon="14.615005"><ele>12</ele></trkpt>
+   <trkpt lat="52.571527" lon="14.615608"><ele>13.25</ele></trkpt>
+   <trkpt lat="52.571694" lon="14.615867"><ele>13.75</ele></trkpt>
+   <trkpt lat="52.572078" lon="14.616443"><ele>13.75</ele></trkpt>
+   <trkpt lat="52.574666" lon="14.620251"><ele>14.5</ele></trkpt>
+   <trkpt lat="52.57584" lon="14.621992"><ele>13.75</ele></trkpt>
+   <trkpt lat="52.576572" lon="14.623048"><ele>16.5</ele></trkpt>
+   <trkpt lat="52.576974" lon="14.623586"><ele>16.25</ele></trkpt>
+   <trkpt lat="52.577713" lon="14.624528"><ele>17.25</ele></trkpt>
+   <trkpt lat="52.579035" lon="14.626155"><ele>16.75</ele></trkpt>
+   <trkpt lat="52.57963" lon="14.626897"><ele>16.75</ele></trkpt>
+   <trkpt lat="52.580932" lon="14.628547"><ele>16.5</ele></trkpt>
+   <trkpt lat="52.582371" lon="14.630333"><ele>16.5</ele></trkpt>
+   <trkpt lat="52.582956" lon="14.63107"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.583383" lon="14.631641"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.583633" lon="14.632009"><ele>13.75</ele></trkpt>
+   <trkpt lat="52.583867" lon="14.632376"><ele>12.75</ele></trkpt>
+   <trkpt lat="52.584128" lon="14.632823"><ele>11.75</ele></trkpt>
+   <trkpt lat="52.58432" lon="14.633168"><ele>11.75</ele></trkpt>
+   <trkpt lat="52.585253" lon="14.634913"><ele>11.5</ele></trkpt>
+   <trkpt lat="52.585735" lon="14.635858"><ele>12</ele></trkpt>
+   <trkpt lat="52.586169" lon="14.636679"><ele>11.25</ele></trkpt>
+   <trkpt lat="52.587426" lon="14.639018"><ele>13.5</ele></trkpt>
+   <trkpt lat="52.588826" lon="14.641517"><ele>15.25</ele></trkpt>
+   <trkpt lat="52.589546" lon="14.642794"><ele>14.25</ele></trkpt>
+   <trkpt lat="52.589791" lon="14.643249"><ele>14.25</ele></trkpt>
+   <trkpt lat="52.589973" lon="14.643621"><ele>14</ele></trkpt>
+   <trkpt lat="52.590289" lon="14.644316"><ele>14.5</ele></trkpt>
+   <trkpt lat="52.59037" lon="14.644497"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.590556" lon="14.644915"><ele>15.5</ele></trkpt>
+   <trkpt lat="52.590729" lon="14.645305"><ele>15.75</ele></trkpt>
+   <trkpt lat="52.590873" lon="14.645653"><ele>16</ele></trkpt>
+   <trkpt lat="52.59101" lon="14.646025"><ele>16</ele></trkpt>
+   <trkpt lat="52.59123" lon="14.646673"><ele>16.25</ele></trkpt>
+   <trkpt lat="52.59141" lon="14.6472"><ele>17.25</ele></trkpt>
+   <trkpt lat="52.59159" lon="14.647725"><ele>18</ele></trkpt>
+   <trkpt lat="52.591823" lon="14.648417"><ele>18.25</ele></trkpt>
+   <trkpt lat="52.591926" lon="14.648765"><ele>18</ele></trkpt>
+   <trkpt lat="52.592032" lon="14.649179"><ele>17.5</ele></trkpt>
+   <trkpt lat="52.592134" lon="14.64966"><ele>17.5</ele></trkpt>
+   <trkpt lat="52.592145" lon="14.649719"><ele>17.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

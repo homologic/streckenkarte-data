@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 652 filtered ascend = 4 plain-ascend = 5 cost=1304 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Reichenberg (0.7km)</name>
+  <trkseg>
+   <trkpt lat="50.764737" lon="15.051133"><ele>358</ele></trkpt>
+   <trkpt lat="50.764816" lon="15.051246"><ele>357.5</ele></trkpt>
+   <trkpt lat="50.764863" lon="15.051325"><ele>357.25</ele></trkpt>
+   <trkpt lat="50.764874" lon="15.051342"><ele>357.25</ele></trkpt>
+   <trkpt lat="50.764978" lon="15.051509"><ele>356.5</ele></trkpt>
+   <trkpt lat="50.765055" lon="15.051633"><ele>356</ele></trkpt>
+   <trkpt lat="50.765099" lon="15.051705"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765199" lon="15.051866"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765212" lon="15.051888"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765573" lon="15.052471"><ele>355.5</ele></trkpt>
+   <trkpt lat="50.765747" lon="15.05275"><ele>355.5</ele></trkpt>
+   <trkpt lat="50.765828" lon="15.052904"><ele>355.5</ele></trkpt>
+   <trkpt lat="50.76586" lon="15.052986"><ele>355.25</ele></trkpt>
+   <trkpt lat="50.765901" lon="15.053152"><ele>354.75</ele></trkpt>
+   <trkpt lat="50.766013" lon="15.053727"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.766045" lon="15.053867"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.76608" lon="15.053983"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.766155" lon="15.054164"><ele>354</ele></trkpt>
+   <trkpt lat="50.766203" lon="15.05425"><ele>354</ele></trkpt>
+   <trkpt lat="50.766315" lon="15.054397"><ele>354</ele></trkpt>
+   <trkpt lat="50.766781" lon="15.054825"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.76682" lon="15.054893"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.766851" lon="15.054974"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.766865" lon="15.055064"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.766867" lon="15.055167"><ele>354.5</ele></trkpt>
+   <trkpt lat="50.766847" lon="15.055281"><ele>355</ele></trkpt>
+   <trkpt lat="50.766718" lon="15.055589"><ele>356</ele></trkpt>
+   <trkpt lat="50.766633" lon="15.055729"><ele>356.5</ele></trkpt>
+   <trkpt lat="50.766572" lon="15.055798"><ele>356.75</ele></trkpt>
+   <trkpt lat="50.766368" lon="15.055997"><ele>357.25</ele></trkpt>
+   <trkpt lat="50.766286" lon="15.0561"><ele>357.5</ele></trkpt>
+   <trkpt lat="50.76621" lon="15.056221"><ele>357.75</ele></trkpt>
+   <trkpt lat="50.765879" lon="15.056865"><ele>358.75</ele></trkpt>
+   <trkpt lat="50.765857" lon="15.056911"><ele>358.75</ele></trkpt>
+   <trkpt lat="50.765779" lon="15.057055"><ele>359.5</ele></trkpt>
+   <trkpt lat="50.765646" lon="15.057335"><ele>360.5</ele></trkpt>
+   <trkpt lat="50.765631" lon="15.057362"><ele>360.5</ele></trkpt>
+   <trkpt lat="50.765489" lon="15.05762"><ele>361.25</ele></trkpt>
+   <trkpt lat="50.765488" lon="15.057624"><ele>361.25</ele></trkpt>
+   <trkpt lat="50.76544" lon="15.057789"><ele>361.75</ele></trkpt>
+   <trkpt lat="50.765412" lon="15.057969"><ele>362.25</ele></trkpt>
+   <trkpt lat="50.765394" lon="15.058081"><ele>362.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
