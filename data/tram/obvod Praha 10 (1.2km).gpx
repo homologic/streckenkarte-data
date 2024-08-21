@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1194 filtered ascend = 0 plain-ascend = -3 cost=2388 energy=0.0kwh time=1m 36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>obvod Praha 10 (1.2km)</name>
+  <trkseg>
+   <trkpt lat="50.077638" lon="14.516876"><ele>235.25</ele></trkpt>
+   <trkpt lat="50.077664" lon="14.516332"><ele>235.5</ele></trkpt>
+   <trkpt lat="50.0777" lon="14.515549"><ele>236</ele></trkpt>
+   <trkpt lat="50.07771" lon="14.515317"><ele>236</ele></trkpt>
+   <trkpt lat="50.077754" lon="14.514399"><ele>234.75</ele></trkpt>
+   <trkpt lat="50.077783" lon="14.513761"><ele>234.25</ele></trkpt>
+   <trkpt lat="50.077841" lon="14.512468"><ele>232.75</ele></trkpt>
+   <trkpt lat="50.077853" lon="14.511966"><ele>232</ele></trkpt>
+   <trkpt lat="50.07786" lon="14.511462"><ele>232</ele></trkpt>
+   <trkpt lat="50.077867" lon="14.510529"><ele>233</ele></trkpt>
+   <trkpt lat="50.077867" lon="14.510485"><ele>233</ele></trkpt>
+   <trkpt lat="50.077868" lon="14.510162"><ele>233.25</ele></trkpt>
+   <trkpt lat="50.077855" lon="14.509731"><ele>233.5</ele></trkpt>
+   <trkpt lat="50.077852" lon="14.509658"><ele>233.75</ele></trkpt>
+   <trkpt lat="50.077832" lon="14.509279"><ele>234.25</ele></trkpt>
+   <trkpt lat="50.077816" lon="14.508969"><ele>234.25</ele></trkpt>
+   <trkpt lat="50.07773" lon="14.507379"><ele>235</ele></trkpt>
+   <trkpt lat="50.077726" lon="14.507316"><ele>235</ele></trkpt>
+   <trkpt lat="50.077713" lon="14.507091"><ele>235.25</ele></trkpt>
+   <trkpt lat="50.07765" lon="14.506039"><ele>235.25</ele></trkpt>
+   <trkpt lat="50.077639" lon="14.505862"><ele>235</ele></trkpt>
+   <trkpt lat="50.077577" lon="14.504867"><ele>235</ele></trkpt>
+   <trkpt lat="50.077575" lon="14.504831"><ele>235</ele></trkpt>
+   <trkpt lat="50.077427" lon="14.50252"><ele>232.75</ele></trkpt>
+   <trkpt lat="50.077418" lon="14.502371"><ele>232.5</ele></trkpt>
+   <trkpt lat="50.077342" lon="14.501222"><ele>231.5</ele></trkpt>
+   <trkpt lat="50.077283" lon="14.500273"><ele>231.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
