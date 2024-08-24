@@ -12,6 +12,6 @@ done
 
 tippecanoe -aN -z10 -o "$temp/strecken.pmtiles" $temp/data/*.json
 
-mv $temp/strecken.pmtiles /var/www/html/
+mv $temp/strecken.pmtiles /var/www/html/antonia/
 
 rm -r $temp
