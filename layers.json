@@ -1,0 +1,18 @@
+{
+		"name" : "Der Antonia ihre Streckenkarte",
+		"tilelayer" : {
+				"attribution" : "Map data ©  <a href=\"http://osm.org/copyright\" >OpenStreetMap contributors</a>",
+				"maxZoom" : 19,
+				"minZoom" : 0,
+				"name" : "OpenStreetMap",
+				"tms" : false,
+				"url_template" : "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+		},
+		"layers": {
+				"fähre" : { "color": "DodgerBlue", "width": 1.5, "humanname": "Fähre"},
+				"vollbahn": {"color": "purple", "width": 2, "humanname": "Bahn"},
+				"tram": {"color": "red", "width": 1.5, "humanname": "Straßenbahn"},
+				"ubahn": {"color": "blue", "width": 1.5, "humanname": "U-Bahn"},
+				"gadgetbahn": {"color": "green", "width": 1.5, "humanname": "Seilbahn/Schwebebahn/Gadgetbahn"}
+		}
+}
