@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Wrocław (0.1km)</name>
+  <trkseg>
+   <trkpt lat="51.101481" lon="17.028514"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.101423" lon="17.028725"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.101382" lon="17.028862"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.101322" lon="17.028995"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.101276" lon="17.029041"><ele>121</ele></trkpt>
+   <trkpt lat="51.10122" lon="17.029059"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.101183" lon="17.029057"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.101156" lon="17.029047"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.101096" lon="17.029004"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.100914" lon="17.028837"><ele>120.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
