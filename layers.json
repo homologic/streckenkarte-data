@@ -14,5 +14,6 @@
 				"tram": {"color": "red", "width": 1.5, "humanname": "Straßenbahn"},
 				"ubahn": {"color": "blue", "width": 1.5, "humanname": "U-Bahn"},
 				"gadgetbahn": {"color": "green", "width": 1.5, "humanname": "Seilbahn/Schwebebahn/Gadgetbahn"}
-		}
+		},
+		"maxZoom": 12
 }
