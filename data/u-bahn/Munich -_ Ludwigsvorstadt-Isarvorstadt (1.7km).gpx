@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1688 filtered ascend = 0 plain-ascend = 0 cost=3378 energy=0.0kwh time=2m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Munich -&gt; Ludwigsvorstadt-Isarvorstadt (1.7km)</name>
+  <trkseg>
+   <trkpt lat="48.13378" lon="11.567921"/>
+   <trkpt lat="48.133721" lon="11.567622"/>
+   <trkpt lat="48.133467" lon="11.566672"/>
+   <trkpt lat="48.133282" lon="11.566033"/>
+   <trkpt lat="48.133184" lon="11.565775"/>
+   <trkpt lat="48.133064" lon="11.565486"/>
+   <trkpt lat="48.132907" lon="11.565141"/>
+   <trkpt lat="48.13269" lon="11.56469"/>
+   <trkpt lat="48.132268" lon="11.563917"/>
+   <trkpt lat="48.13168" lon="11.562881"/>
+   <trkpt lat="48.130265" lon="11.559877"/>
+   <trkpt lat="48.130157" lon="11.559718"/>
+   <trkpt lat="48.130096" lon="11.55952"/>
+   <trkpt lat="48.129458" lon="11.558088"/>
+   <trkpt lat="48.12918" lon="11.557502"/>
+   <trkpt lat="48.128113" lon="11.555247"/>
+   <trkpt lat="48.127869" lon="11.554768"/>
+   <trkpt lat="48.12751" lon="11.554128"/>
+   <trkpt lat="48.126957" lon="11.553173"/>
+   <trkpt lat="48.126761" lon="11.552784"/>
+   <trkpt lat="48.126057" lon="11.551224"/>
+   <trkpt lat="48.12579" lon="11.550647"/>
+   <trkpt lat="48.125552" lon="11.550206"/>
+   <trkpt lat="48.125296" lon="11.549785"/>
+   <trkpt lat="48.12515" lon="11.549581"/>
+   <trkpt lat="48.125044" lon="11.549462"/>
+  </trkseg>
+ </trk>
+</gpx>
