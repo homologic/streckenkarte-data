@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1663 filtered ascend = 0 plain-ascend = 0 cost=3326 energy=0.0kwh time=2m 13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Toulouse (1.7km)</name>
+  <trkseg>
+   <trkpt lat="43.600111" lon="1.443926"/>
+   <trkpt lat="43.600386" lon="1.444005"/>
+   <trkpt lat="43.600883" lon="1.444131"/>
+   <trkpt lat="43.601425" lon="1.444225"/>
+   <trkpt lat="43.603119" lon="1.444389"/>
+   <trkpt lat="43.603464" lon="1.444448"/>
+   <trkpt lat="43.603736" lon="1.444542"/>
+   <trkpt lat="43.603969" lon="1.444686"/>
+   <trkpt lat="43.604126" lon="1.444885"/>
+   <trkpt lat="43.604314" lon="1.445308"/>
+   <trkpt lat="43.60451" lon="1.445747"/>
+   <trkpt lat="43.604574" lon="1.445948"/>
+   <trkpt lat="43.604634" lon="1.446206"/>
+   <trkpt lat="43.604842" lon="1.447272"/>
+   <trkpt lat="43.604918" lon="1.447494"/>
+   <trkpt lat="43.605" lon="1.447698"/>
+   <trkpt lat="43.605141" lon="1.447923"/>
+   <trkpt lat="43.605889" lon="1.449039"/>
+   <trkpt lat="43.606423" lon="1.449837"/>
+   <trkpt lat="43.606556" lon="1.45001"/>
+   <trkpt lat="43.606894" lon="1.450373"/>
+   <trkpt lat="43.607115" lon="1.450696"/>
+   <trkpt lat="43.608813" lon="1.453176"/>
+   <trkpt lat="43.609304" lon="1.45381"/>
+   <trkpt lat="43.609733" lon="1.454213"/>
+   <trkpt lat="43.610125" lon="1.454522"/>
+   <trkpt lat="43.610506" lon="1.454758"/>
+   <trkpt lat="43.610599" lon="1.454849"/>
+   <trkpt lat="43.610807" lon="1.455141"/>
+   <trkpt lat="43.611038" lon="1.455484"/>
+   <trkpt lat="43.611143" lon="1.455663"/>
+   <trkpt lat="43.611182" lon="1.455751"/>
+  </trkseg>
+ </trk>
+</gpx>
