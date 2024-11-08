@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1547 filtered ascend = 15 plain-ascend = -11 cost=1547 energy=0.0kwh time=2m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Moreira (1.5km)</name>
+  <trkseg>
+   <trkpt lat="41.237439" lon="-8.669661"><ele>72.5</ele></trkpt>
+   <trkpt lat="41.237201" lon="-8.669597"><ele>73</ele></trkpt>
+   <trkpt lat="41.236649" lon="-8.669449"><ele>73.75</ele></trkpt>
+   <trkpt lat="41.236337" lon="-8.669365"><ele>72</ele></trkpt>
+   <trkpt lat="41.235929" lon="-8.669258"><ele>69.75</ele></trkpt>
+   <trkpt lat="41.23589" lon="-8.669248"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.235741" lon="-8.669167"><ele>69</ele></trkpt>
+   <trkpt lat="41.235494" lon="-8.6691"><ele>69.75</ele></trkpt>
+   <trkpt lat="41.235356" lon="-8.669045"><ele>70.25</ele></trkpt>
+   <trkpt lat="41.235249" lon="-8.668965"><ele>70.5</ele></trkpt>
+   <trkpt lat="41.235188" lon="-8.668879"><ele>71</ele></trkpt>
+   <trkpt lat="41.235138" lon="-8.668774"><ele>71.25</ele></trkpt>
+   <trkpt lat="41.235119" lon="-8.668627"><ele>71.5</ele></trkpt>
+   <trkpt lat="41.235141" lon="-8.668483"><ele>72</ele></trkpt>
+   <trkpt lat="41.235208" lon="-8.668322"><ele>72.5</ele></trkpt>
+   <trkpt lat="41.236251" lon="-8.666946"><ele>77.75</ele></trkpt>
+   <trkpt lat="41.236963" lon="-8.666033"><ele>77.75</ele></trkpt>
+   <trkpt lat="41.237199" lon="-8.665729"><ele>77.75</ele></trkpt>
+   <trkpt lat="41.237252" lon="-8.665653"><ele>77.75</ele></trkpt>
+   <trkpt lat="41.237283" lon="-8.665607"><ele>77.75</ele></trkpt>
+   <trkpt lat="41.237541" lon="-8.665235"><ele>78</ele></trkpt>
+   <trkpt lat="41.237797" lon="-8.664863"><ele>78</ele></trkpt>
+   <trkpt lat="41.237894" lon="-8.664721"><ele>78</ele></trkpt>
+   <trkpt lat="41.237996" lon="-8.664553"><ele>78.25</ele></trkpt>
+   <trkpt lat="41.238106" lon="-8.664255"><ele>79</ele></trkpt>
+   <trkpt lat="41.238397" lon="-8.663354"><ele>79</ele></trkpt>
+   <trkpt lat="41.238569" lon="-8.66275"><ele>79.5</ele></trkpt>
+   <trkpt lat="41.238691" lon="-8.662166"><ele>80.25</ele></trkpt>
+   <trkpt lat="41.238715" lon="-8.662"><ele>80.5</ele></trkpt>
+   <trkpt lat="41.238783" lon="-8.661512"><ele>81.75</ele></trkpt>
+   <trkpt lat="41.239014" lon="-8.659837"><ele>84.5</ele></trkpt>
+   <trkpt lat="41.239095" lon="-8.659252"><ele>85.75</ele></trkpt>
+   <trkpt lat="41.239084" lon="-8.658992"><ele>86</ele></trkpt>
+   <trkpt lat="41.239036" lon="-8.658801"><ele>86.5</ele></trkpt>
+   <trkpt lat="41.238966" lon="-8.658681"><ele>86.75</ele></trkpt>
+   <trkpt lat="41.23883" lon="-8.658521"><ele>87.25</ele></trkpt>
+   <trkpt lat="41.238658" lon="-8.658415"><ele>87.25</ele></trkpt>
+   <trkpt lat="41.238473" lon="-8.658356"><ele>87.75</ele></trkpt>
+   <trkpt lat="41.238177" lon="-8.658263"><ele>85.75</ele></trkpt>
+   <trkpt lat="41.237751" lon="-8.658131"><ele>81.25</ele></trkpt>
+   <trkpt lat="41.237195" lon="-8.657961"><ele>75.5</ele></trkpt>
+   <trkpt lat="41.236585" lon="-8.657767"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
