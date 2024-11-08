@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3108 filtered ascend = 48 plain-ascend = 37 cost=3108 energy=0.0kwh time=4m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória -&gt; Mafamude e Vilar do Paraíso (3.1km)</name>
+  <trkseg>
+   <trkpt lat="41.152949" lon="-8.609715"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.152823" lon="-8.609715"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.15226" lon="-8.609716"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.152008" lon="-8.609716"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.151576" lon="-8.609721"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.151478" lon="-8.609731"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.151341" lon="-8.609755"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.151139" lon="-8.609816"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.150943" lon="-8.609904"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.150786" lon="-8.609998"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.150602" lon="-8.610134"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.150249" lon="-8.610416"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.150117" lon="-8.610504"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.149922" lon="-8.610607"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.149749" lon="-8.610673"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.149617" lon="-8.610713"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.148596" lon="-8.610995"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.14762" lon="-8.611263"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.147374" lon="-8.611306"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.147135" lon="-8.611314"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.147016" lon="-8.611306"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.146818" lon="-8.611274"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.146592" lon="-8.611211"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.146168" lon="-8.611074"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.145965" lon="-8.611023"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.145769" lon="-8.610996"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.145416" lon="-8.610978"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.145246" lon="-8.610961"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.145088" lon="-8.610927"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.144785" lon="-8.610837"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.143095" lon="-8.61033"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.14282" lon="-8.610268"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.142383" lon="-8.610198"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.142077" lon="-8.610134"><ele>59.5</ele></trkpt>
+   <trkpt lat="41.141941" lon="-8.610094"><ele>55</ele></trkpt>
+   <trkpt lat="41.141921" lon="-8.610088"><ele>54.5</ele></trkpt>
+   <trkpt lat="41.138339" lon="-8.608954"><ele>52</ele></trkpt>
+   <trkpt lat="41.138209" lon="-8.608914"><ele>56</ele></trkpt>
+   <trkpt lat="41.137933" lon="-8.608827"><ele>63.75</ele></trkpt>
+   <trkpt lat="41.137613" lon="-8.608727"><ele>71.5</ele></trkpt>
+   <trkpt lat="41.136358" lon="-8.608321"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.136293" lon="-8.6083"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.136221" lon="-8.608277"><ele>69.5</ele></trkpt>
+   <trkpt lat="41.135749" lon="-8.608131"><ele>70</ele></trkpt>
+   <trkpt lat="41.135588" lon="-8.608079"><ele>71.25</ele></trkpt>
+   <trkpt lat="41.13507" lon="-8.607914"><ele>75.25</ele></trkpt>
+   <trkpt lat="41.134506" lon="-8.607731"><ele>75.75</ele></trkpt>
+   <trkpt lat="41.134425" lon="-8.607705"><ele>75.75</ele></trkpt>
+   <trkpt lat="41.134363" lon="-8.607684"><ele>75.75</ele></trkpt>
+   <trkpt lat="41.133929" lon="-8.607546"><ele>76.5</ele></trkpt>
+   <trkpt lat="41.133559" lon="-8.607427"><ele>78.25</ele></trkpt>
+   <trkpt lat="41.133313" lon="-8.607349"><ele>79.75</ele></trkpt>
+   <trkpt lat="41.132508" lon="-8.607095"><ele>87.75</ele></trkpt>
+   <trkpt lat="41.132405" lon="-8.607064"><ele>88.25</ele></trkpt>
+   <trkpt lat="41.13225" lon="-8.607013"><ele>89</ele></trkpt>
+   <trkpt lat="41.131568" lon="-8.6068"><ele>91.75</ele></trkpt>
+   <trkpt lat="41.130969" lon="-8.606608"><ele>94.5</ele></trkpt>
+   <trkpt lat="41.130332" lon="-8.606405"><ele>98.25</ele></trkpt>
+   <trkpt lat="41.13023" lon="-8.606374"><ele>99</ele></trkpt>
+   <trkpt lat="41.130116" lon="-8.606337"><ele>100</ele></trkpt>
+   <trkpt lat="41.130035" lon="-8.606311"><ele>100.75</ele></trkpt>
+   <trkpt lat="41.129657" lon="-8.60619"><ele>102</ele></trkpt>
+   <trkpt lat="41.129279" lon="-8.606067"><ele>103.25</ele></trkpt>
+   <trkpt lat="41.129254" lon="-8.606059"><ele>103.25</ele></trkpt>
+   <trkpt lat="41.129106" lon="-8.606011"><ele>104</ele></trkpt>
+   <trkpt lat="41.12899" lon="-8.605974"><ele>104.5</ele></trkpt>
+   <trkpt lat="41.128338" lon="-8.605766"><ele>105.5</ele></trkpt>
+   <trkpt lat="41.128019" lon="-8.605667"><ele>106</ele></trkpt>
+   <trkpt lat="41.127653" lon="-8.605604"><ele>106.75</ele></trkpt>
+   <trkpt lat="41.127459" lon="-8.605594"><ele>107.5</ele></trkpt>
+   <trkpt lat="41.126736" lon="-8.605658"><ele>110</ele></trkpt>
+   <trkpt lat="41.126704" lon="-8.605661"><ele>110</ele></trkpt>
+   <trkpt lat="41.126561" lon="-8.605684"><ele>109.75</ele></trkpt>
+   <trkpt lat="41.126458" lon="-8.605701"><ele>109</ele></trkpt>
+   <trkpt lat="41.126421" lon="-8.605706"><ele>109</ele></trkpt>
+   <trkpt lat="41.126098" lon="-8.605731"><ele>106.75</ele></trkpt>
+   <trkpt lat="41.125756" lon="-8.605753"><ele>105.5</ele></trkpt>
+   <trkpt lat="41.125701" lon="-8.605756"><ele>105.75</ele></trkpt>
+   <trkpt lat="41.125637" lon="-8.605761"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
