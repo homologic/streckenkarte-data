@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3925 filtered ascend = 0 plain-ascend = 0 cost=7850 energy=0.0kwh time=5m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Lisbon Blue Line (3.9km)</name>
+  <trkseg>
+   <trkpt lat="38.724395" lon="-9.149258"/>
+   <trkpt lat="38.724159" lon="-9.14915"/>
+   <trkpt lat="38.723681" lon="-9.148885"/>
+   <trkpt lat="38.723088" lon="-9.14844"/>
+   <trkpt lat="38.719524" lon="-9.145287"/>
+   <trkpt lat="38.71901" lon="-9.144831"/>
+   <trkpt lat="38.718756" lon="-9.144618"/>
+   <trkpt lat="38.716556" lon="-9.142778"/>
+   <trkpt lat="38.716399" lon="-9.142658"/>
+   <trkpt lat="38.715997" lon="-9.14231"/>
+   <trkpt lat="38.715298" lon="-9.141706"/>
+   <trkpt lat="38.714565" lon="-9.141162"/>
+   <trkpt lat="38.713907" lon="-9.140734"/>
+   <trkpt lat="38.713518" lon="-9.14055"/>
+   <trkpt lat="38.713161" lon="-9.140413"/>
+   <trkpt lat="38.712903" lon="-9.14033"/>
+   <trkpt lat="38.712635" lon="-9.140257"/>
+   <trkpt lat="38.712351" lon="-9.140196"/>
+   <trkpt lat="38.712194" lon="-9.14017"/>
+   <trkpt lat="38.711914" lon="-9.140134"/>
+   <trkpt lat="38.711217" lon="-9.140089"/>
+   <trkpt lat="38.710419" lon="-9.140045"/>
+   <trkpt lat="38.70962" lon="-9.14"/>
+   <trkpt lat="38.708761" lon="-9.139963"/>
+   <trkpt lat="38.708337" lon="-9.139892"/>
+   <trkpt lat="38.70796" lon="-9.139793"/>
+   <trkpt lat="38.707657" lon="-9.139686"/>
+   <trkpt lat="38.707402" lon="-9.139553"/>
+   <trkpt lat="38.707215" lon="-9.13943"/>
+   <trkpt lat="38.707036" lon="-9.139282"/>
+   <trkpt lat="38.706791" lon="-9.138986"/>
+   <trkpt lat="38.706613" lon="-9.138725"/>
+   <trkpt lat="38.706528" lon="-9.138577"/>
+   <trkpt lat="38.706415" lon="-9.138339"/>
+   <trkpt lat="38.706318" lon="-9.138066"/>
+   <trkpt lat="38.706277" lon="-9.137921"/>
+   <trkpt lat="38.70624" lon="-9.137761"/>
+   <trkpt lat="38.706193" lon="-9.137474"/>
+   <trkpt lat="38.706173" lon="-9.137214"/>
+   <trkpt lat="38.706171" lon="-9.13707"/>
+   <trkpt lat="38.706184" lon="-9.136778"/>
+   <trkpt lat="38.706201" lon="-9.136628"/>
+   <trkpt lat="38.706241" lon="-9.136395"/>
+   <trkpt lat="38.706288" lon="-9.136198"/>
+   <trkpt lat="38.706323" lon="-9.136076"/>
+   <trkpt lat="38.706409" lon="-9.135825"/>
+   <trkpt lat="38.706628" lon="-9.135285"/>
+   <trkpt lat="38.707013" lon="-9.134368"/>
+   <trkpt lat="38.707346" lon="-9.133573"/>
+   <trkpt lat="38.708106" lon="-9.131786"/>
+   <trkpt lat="38.708695" lon="-9.130477"/>
+   <trkpt lat="38.708857" lon="-9.130142"/>
+   <trkpt lat="38.70902" lon="-9.12983"/>
+   <trkpt lat="38.709298" lon="-9.129361"/>
+   <trkpt lat="38.710419" lon="-9.127639"/>
+   <trkpt lat="38.710696" lon="-9.127178"/>
+   <trkpt lat="38.710948" lon="-9.126709"/>
+   <trkpt lat="38.711058" lon="-9.126486"/>
+   <trkpt lat="38.711216" lon="-9.126139"/>
+   <trkpt lat="38.711382" lon="-9.125738"/>
+   <trkpt lat="38.71148" lon="-9.125483"/>
+   <trkpt lat="38.711814" lon="-9.124845"/>
+   <trkpt lat="38.712254" lon="-9.124119"/>
+   <trkpt lat="38.712777" lon="-9.123392"/>
+   <trkpt lat="38.713679" lon="-9.122428"/>
+  </trkseg>
+ </trk>
+</gpx>
