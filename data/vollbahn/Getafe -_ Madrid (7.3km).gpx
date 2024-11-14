@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7336 filtered ascend = 64 plain-ascend = 49 cost=7336 energy=0.1kwh time=9m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Getafe -&gt; Madrid (7.3km)</name>
+  <trkseg>
+   <trkpt lat="40.304429" lon="-3.660715"><ele>581.75</ele></trkpt>
+   <trkpt lat="40.30508" lon="-3.659788"><ele>581.25</ele></trkpt>
+   <trkpt lat="40.306507" lon="-3.657689"><ele>578.5</ele></trkpt>
+   <trkpt lat="40.307399" lon="-3.656413"><ele>574.75</ele></trkpt>
+   <trkpt lat="40.307968" lon="-3.655654"><ele>573.75</ele></trkpt>
+   <trkpt lat="40.308231" lon="-3.655333"><ele>574</ele></trkpt>
+   <trkpt lat="40.309171" lon="-3.654232"><ele>574.75</ele></trkpt>
+   <trkpt lat="40.309716" lon="-3.653651"><ele>572.5</ele></trkpt>
+   <trkpt lat="40.310201" lon="-3.653174"><ele>571.75</ele></trkpt>
+   <trkpt lat="40.310857" lon="-3.652543"><ele>570</ele></trkpt>
+   <trkpt lat="40.311699" lon="-3.65183"><ele>569.25</ele></trkpt>
+   <trkpt lat="40.312245" lon="-3.651381"><ele>568</ele></trkpt>
+   <trkpt lat="40.31296" lon="-3.650856"><ele>567.25</ele></trkpt>
+   <trkpt lat="40.313908" lon="-3.650237"><ele>563.75</ele></trkpt>
+   <trkpt lat="40.314552" lon="-3.649844"><ele>561.5</ele></trkpt>
+   <trkpt lat="40.315209" lon="-3.649473"><ele>560</ele></trkpt>
+   <trkpt lat="40.317106" lon="-3.648449"><ele>559.75</ele></trkpt>
+   <trkpt lat="40.318245" lon="-3.647758"><ele>560.5</ele></trkpt>
+   <trkpt lat="40.319034" lon="-3.647219"><ele>563</ele></trkpt>
+   <trkpt lat="40.319679" lon="-3.646729"><ele>566.25</ele></trkpt>
+   <trkpt lat="40.322942" lon="-3.644215"><ele>556.75</ele></trkpt>
+   <trkpt lat="40.328287" lon="-3.64008"><ele>562.25</ele></trkpt>
+   <trkpt lat="40.328817" lon="-3.639644"><ele>565.25</ele></trkpt>
+   <trkpt lat="40.329541" lon="-3.63898"><ele>568</ele></trkpt>
+   <trkpt lat="40.330358" lon="-3.638148"><ele>569.5</ele></trkpt>
+   <trkpt lat="40.331139" lon="-3.637259"><ele>578.25</ele></trkpt>
+   <trkpt lat="40.331874" lon="-3.63632"><ele>582.25</ele></trkpt>
+   <trkpt lat="40.332469" lon="-3.635465"><ele>579.5</ele></trkpt>
+   <trkpt lat="40.333149" lon="-3.634395"><ele>576.25</ele></trkpt>
+   <trkpt lat="40.333646" lon="-3.633515"><ele>575.75</ele></trkpt>
+   <trkpt lat="40.333981" lon="-3.632862"><ele>579.25</ele></trkpt>
+   <trkpt lat="40.334314" lon="-3.632151"><ele>583.5</ele></trkpt>
+   <trkpt lat="40.334667" lon="-3.631374"><ele>585.75</ele></trkpt>
+   <trkpt lat="40.335025" lon="-3.630489"><ele>589.25</ele></trkpt>
+   <trkpt lat="40.335378" lon="-3.629473"><ele>588.5</ele></trkpt>
+   <trkpt lat="40.335587" lon="-3.628818"><ele>588</ele></trkpt>
+   <trkpt lat="40.335913" lon="-3.6277"><ele>589.25</ele></trkpt>
+   <trkpt lat="40.336636" lon="-3.6248"><ele>586.25</ele></trkpt>
+   <trkpt lat="40.339832" lon="-3.611082"><ele>608.75</ele></trkpt>
+   <trkpt lat="40.340544" lon="-3.608027"><ele>619.25</ele></trkpt>
+   <trkpt lat="40.33992" lon="-3.610884"><ele>608.5</ele></trkpt>
+   <trkpt lat="40.34185" lon="-3.602653"><ele>627.75</ele></trkpt>
+   <trkpt lat="40.341904" lon="-3.602447"><ele>630.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
