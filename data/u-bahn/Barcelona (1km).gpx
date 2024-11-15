@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1006 filtered ascend = 0 plain-ascend = 0 cost=2012 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Barcelona (1km)</name>
+  <trkseg>
+   <trkpt lat="41.381466" lon="2.14112"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.381431" lon="2.141166"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.381242" lon="2.141397"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.38109" lon="2.141603"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.381003" lon="2.141737"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.380905" lon="2.141931"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.380825" lon="2.142122"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.38072" lon="2.14234"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.380656" lon="2.142447"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.380545" lon="2.142603"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.380062" lon="2.143225"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.378465" lon="2.145315"><ele>41.25</ele></trkpt>
+   <trkpt lat="41.377572" lon="2.146482"/>
+   <trkpt lat="41.376574" lon="2.147839"/>
+   <trkpt lat="41.3756" lon="2.149122"/>
+   <trkpt lat="41.375432" lon="2.149353"/>
+   <trkpt lat="41.375369" lon="2.149453"/>
+   <trkpt lat="41.375303" lon="2.149571"/>
+   <trkpt lat="41.375209" lon="2.14978"/>
+  </trkseg>
+ </trk>
+</gpx>
