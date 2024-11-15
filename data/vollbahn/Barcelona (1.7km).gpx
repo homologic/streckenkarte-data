@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1737 filtered ascend = 0 plain-ascend = 0 cost=3474 energy=0.0kwh time=2m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Barcelona (1.7km)</name>
+  <trkseg>
+   <trkpt lat="41.409608" lon="2.137185"/>
+   <trkpt lat="41.409396" lon="2.137297"/>
+   <trkpt lat="41.408941" lon="2.137533"/>
+   <trkpt lat="41.408601" lon="2.137692"/>
+   <trkpt lat="41.406062" lon="2.138988"/>
+   <trkpt lat="41.405801" lon="2.139121"/>
+   <trkpt lat="41.405441" lon="2.13931"/>
+   <trkpt lat="41.405239" lon="2.139472"/>
+   <trkpt lat="41.405043" lon="2.139695"/>
+   <trkpt lat="41.404829" lon="2.140007"/>
+   <trkpt lat="41.404524" lon="2.140532"/>
+   <trkpt lat="41.404299" lon="2.140999"/>
+   <trkpt lat="41.404102" lon="2.14153"/>
+   <trkpt lat="41.403944" lon="2.141985"/>
+   <trkpt lat="41.403842" lon="2.142216"/>
+   <trkpt lat="41.403466" lon="2.142764"/>
+   <trkpt lat="41.403284" lon="2.143047"/>
+   <trkpt lat="41.403174" lon="2.143273"/>
+   <trkpt lat="41.403112" lon="2.143439"/>
+   <trkpt lat="41.402908" lon="2.144054"/>
+   <trkpt lat="41.402793" lon="2.144459"/>
+   <trkpt lat="41.402726" lon="2.144665"/>
+   <trkpt lat="41.402638" lon="2.144903"/>
+   <trkpt lat="41.402518" lon="2.14515"/>
+   <trkpt lat="41.402188" lon="2.145731"/>
+   <trkpt lat="41.401891" lon="2.146272"/>
+   <trkpt lat="41.401515" lon="2.146985"/>
+   <trkpt lat="41.40141" lon="2.147208"/>
+   <trkpt lat="41.40132" lon="2.147424"/>
+   <trkpt lat="41.40126" lon="2.147576"/>
+   <trkpt lat="41.40119" lon="2.147788"/>
+   <trkpt lat="41.401164" lon="2.147902"/>
+   <trkpt lat="41.401142" lon="2.148045"/>
+   <trkpt lat="41.401124" lon="2.148179"/>
+   <trkpt lat="41.401111" lon="2.148824"/>
+   <trkpt lat="41.401089" lon="2.149063"/>
+   <trkpt lat="41.401025" lon="2.149492"/>
+   <trkpt lat="41.400954" lon="2.14981"/>
+   <trkpt lat="41.400895" lon="2.150028"/>
+   <trkpt lat="41.40081" lon="2.150277"/>
+   <trkpt lat="41.400693" lon="2.150559"/>
+   <trkpt lat="41.400588" lon="2.150775"/>
+   <trkpt lat="41.400464" lon="2.151008"/>
+   <trkpt lat="41.40035" lon="2.151175"/>
+   <trkpt lat="41.400143" lon="2.151446"/>
+   <trkpt lat="41.400034" lon="2.151577"/>
+   <trkpt lat="41.399937" lon="2.151681"/>
+   <trkpt lat="41.399813" lon="2.151797"/>
+  </trkseg>
+ </trk>
+</gpx>

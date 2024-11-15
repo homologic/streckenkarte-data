@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7037 filtered ascend = 0 plain-ascend = 0 cost=14074 energy=0.1kwh time=9m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Barcelona -&gt; Cornellà de Llobregat (7km)</name>
+  <trkseg>
+   <trkpt lat="41.37457" lon="2.148577"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.374463" lon="2.148435"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.374239" lon="2.148133"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.373938" lon="2.147742"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.373897" lon="2.147684"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.37331" lon="2.146894"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.372641" lon="2.145978"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.37209" lon="2.145219"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.371908" lon="2.144906"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.37177" lon="2.144717"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.367626" lon="2.139027"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.366898" lon="2.138075"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.366555" lon="2.137608"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360796" lon="2.12976"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.357138" lon="2.125182"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.356672" lon="2.124504"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.356503" lon="2.12428"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.35608" lon="2.123809"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355264" lon="2.122928"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355103" lon="2.122744"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354926" lon="2.122525"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354686" lon="2.122198"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354487" lon="2.121896"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354332" lon="2.121631"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354191" lon="2.121225"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354089" lon="2.12079"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354039" lon="2.120507"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354027" lon="2.120188"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354039" lon="2.119722"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354108" lon="2.119155"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354174" lon="2.118827"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.35424" lon="2.118574"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354342" lon="2.118284"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.35443" lon="2.118059"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354511" lon="2.11788"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354962" lon="2.117141"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355169" lon="2.116795"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355544" lon="2.116324"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355909" lon="2.116027"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.356171" lon="2.115856"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.356409" lon="2.115743"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.356819" lon="2.115606"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.357145" lon="2.115563"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.358922" lon="2.115406"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.359195" lon="2.115335"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.359432" lon="2.115242"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.359686" lon="2.115097"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.359913" lon="2.114892"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.36022" lon="2.114599"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.36041" lon="2.11436"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360611" lon="2.114025"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360789" lon="2.11366"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360944" lon="2.113305"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361059" lon="2.112964"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361135" lon="2.11257"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361152" lon="2.112159"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361153" lon="2.11175"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361126" lon="2.111414"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.361075" lon="2.111081"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360915" lon="2.110368"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360641" lon="2.109617"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.360214" lon="2.108515"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.358691" lon="2.104698"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.358362" lon="2.103887"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.358121" lon="2.103312"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.35794" lon="2.1029"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.355267" lon="2.096551"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.354534" lon="2.094483"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.353765" lon="2.091508"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.353642" lon="2.090699"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.353563" lon="2.089019"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.353468" lon="2.087903"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.353052" lon="2.084509"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.352966" lon="2.083934"><ele>12.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
