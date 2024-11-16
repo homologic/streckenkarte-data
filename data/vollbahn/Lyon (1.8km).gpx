@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1832 filtered ascend = 15 plain-ascend = 8 cost=1832 energy=0.0kwh time=2m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Lyon (1.8km)</name>
+  <trkseg>
+   <trkpt lat="45.7661" lon="4.826679"><ele>187</ele></trkpt>
+   <trkpt lat="45.766222" lon="4.826474"><ele>187.25</ele></trkpt>
+   <trkpt lat="45.766346" lon="4.826257"><ele>186.75</ele></trkpt>
+   <trkpt lat="45.766416" lon="4.82611"><ele>186.25</ele></trkpt>
+   <trkpt lat="45.766533" lon="4.82581"><ele>185.25</ele></trkpt>
+   <trkpt lat="45.766572" lon="4.825693"><ele>185.25</ele></trkpt>
+   <trkpt lat="45.766612" lon="4.825543"><ele>185.25</ele></trkpt>
+   <trkpt lat="45.766682" lon="4.825244"><ele>185.5</ele></trkpt>
+   <trkpt lat="45.766702" lon="4.825141"><ele>185.75</ele></trkpt>
+   <trkpt lat="45.766726" lon="4.824949"><ele>186.5</ele></trkpt>
+   <trkpt lat="45.766743" lon="4.824719"><ele>187</ele></trkpt>
+   <trkpt lat="45.766749" lon="4.824372"><ele>188.25</ele></trkpt>
+   <trkpt lat="45.766742" lon="4.824013"><ele>191.25</ele></trkpt>
+   <trkpt lat="45.766737" lon="4.823816"><ele>191.25</ele></trkpt>
+   <trkpt lat="45.766737" lon="4.823789"><ele>191.25</ele></trkpt>
+   <trkpt lat="45.766735" lon="4.823765"><ele>191.25</ele></trkpt>
+   <trkpt lat="45.766671" lon="4.823198"><ele>191.75</ele></trkpt>
+   <trkpt lat="45.7666" lon="4.822689"><ele>192</ele></trkpt>
+   <trkpt lat="45.766535" lon="4.822339"><ele>192.25</ele></trkpt>
+   <trkpt lat="45.766441" lon="4.821993"><ele>192.5</ele></trkpt>
+   <trkpt lat="45.766328" lon="4.821684"><ele>192.5</ele></trkpt>
+   <trkpt lat="45.766196" lon="4.821393"><ele>192.75</ele></trkpt>
+   <trkpt lat="45.766026" lon="4.821054"><ele>193</ele></trkpt>
+   <trkpt lat="45.765784" lon="4.820658"><ele>193.5</ele></trkpt>
+   <trkpt lat="45.7656" lon="4.820299"><ele>193.75</ele></trkpt>
+   <trkpt lat="45.765422" lon="4.819906"><ele>194</ele></trkpt>
+   <trkpt lat="45.765211" lon="4.819331"><ele>194.25</ele></trkpt>
+   <trkpt lat="45.765052" lon="4.818681"><ele>194.75</ele></trkpt>
+   <trkpt lat="45.764957" lon="4.817953"><ele>195.25</ele></trkpt>
+   <trkpt lat="45.764906" lon="4.817198"><ele>195.75</ele></trkpt>
+   <trkpt lat="45.764979" lon="4.816004"><ele>196.5</ele></trkpt>
+   <trkpt lat="45.765982" lon="4.807585"><ele>201.5</ele></trkpt>
+   <trkpt lat="45.766033" lon="4.807025"><ele>202</ele></trkpt>
+   <trkpt lat="45.766067" lon="4.80633"><ele>202.5</ele></trkpt>
+   <trkpt lat="45.766074" lon="4.806106"><ele>202.5</ele></trkpt>
+   <trkpt lat="45.766071" lon="4.805593"><ele>196.25</ele></trkpt>
+   <trkpt lat="45.766058" lon="4.805227"><ele>194</ele></trkpt>
+   <trkpt lat="45.766008" lon="4.80473"><ele>193.25</ele></trkpt>
+   <trkpt lat="45.765943" lon="4.80419"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
