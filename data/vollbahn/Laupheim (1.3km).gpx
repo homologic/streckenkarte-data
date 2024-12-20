@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1282 filtered ascend = 3 plain-ascend = 2 cost=1282 energy=0.0kwh time=1m 43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Laupheim (1.3km)</name>
+  <trkseg>
+   <trkpt lat="48.228802" lon="9.852758"><ele>500.25</ele></trkpt>
+   <trkpt lat="48.228755" lon="9.852264"><ele>499.5</ele></trkpt>
+   <trkpt lat="48.228719" lon="9.851796"><ele>498.75</ele></trkpt>
+   <trkpt lat="48.228717" lon="9.851522"><ele>498.5</ele></trkpt>
+   <trkpt lat="48.228731" lon="9.851199"><ele>498.75</ele></trkpt>
+   <trkpt lat="48.228764" lon="9.850835"><ele>498.75</ele></trkpt>
+   <trkpt lat="48.228797" lon="9.850508"><ele>499</ele></trkpt>
+   <trkpt lat="48.228832" lon="9.850158"><ele>499</ele></trkpt>
+   <trkpt lat="48.228851" lon="9.849865"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.228854" lon="9.849521"><ele>499.75</ele></trkpt>
+   <trkpt lat="48.228843" lon="9.849226"><ele>500</ele></trkpt>
+   <trkpt lat="48.228806" lon="9.848872"><ele>500.25</ele></trkpt>
+   <trkpt lat="48.228757" lon="9.848604"><ele>500.5</ele></trkpt>
+   <trkpt lat="48.228648" lon="9.848189"><ele>501</ele></trkpt>
+   <trkpt lat="48.228524" lon="9.847864"><ele>501.25</ele></trkpt>
+   <trkpt lat="48.228493" lon="9.8478"><ele>501.25</ele></trkpt>
+   <trkpt lat="48.228398" lon="9.847608"><ele>501.75</ele></trkpt>
+   <trkpt lat="48.228291" lon="9.847432"><ele>501.5</ele></trkpt>
+   <trkpt lat="48.22825" lon="9.847364"><ele>501.25</ele></trkpt>
+   <trkpt lat="48.228103" lon="9.847169"><ele>500.5</ele></trkpt>
+   <trkpt lat="48.228038" lon="9.847099"><ele>500.25</ele></trkpt>
+   <trkpt lat="48.227865" lon="9.846912"><ele>499.75</ele></trkpt>
+   <trkpt lat="48.227551" lon="9.846685"><ele>499.75</ele></trkpt>
+   <trkpt lat="48.227151" lon="9.846474"><ele>499.5</ele></trkpt>
+   <trkpt lat="48.226471" lon="9.846173"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.22636" lon="9.846123"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.226296" lon="9.846097"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.226236" lon="9.846074"><ele>499.5</ele></trkpt>
+   <trkpt lat="48.225486" lon="9.845752"><ele>499.5</ele></trkpt>
+   <trkpt lat="48.224681" lon="9.845406"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.223201" lon="9.84472"><ele>503.75</ele></trkpt>
+   <trkpt lat="48.22311" lon="9.844678"><ele>503.75</ele></trkpt>
+   <trkpt lat="48.22122" lon="9.843803"><ele>499.25</ele></trkpt>
+   <trkpt lat="48.22096" lon="9.843682"><ele>502.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
