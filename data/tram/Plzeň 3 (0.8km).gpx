@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 802 filtered ascend = 1 plain-ascend = -13 cost=1604 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Plzeň 3 (0.8km)</name>
+  <trkseg>
+   <trkpt lat="49.740833" lon="13.371427"><ele>332</ele></trkpt>
+   <trkpt lat="49.740973" lon="13.371466"><ele>332.25</ele></trkpt>
+   <trkpt lat="49.74105" lon="13.371487"><ele>332.5</ele></trkpt>
+   <trkpt lat="49.741432" lon="13.371602"><ele>332.75</ele></trkpt>
+   <trkpt lat="49.741775" lon="13.371705"><ele>333</ele></trkpt>
+   <trkpt lat="49.742213" lon="13.371833"><ele>332.75</ele></trkpt>
+   <trkpt lat="49.743931" lon="13.372339"><ele>329.75</ele></trkpt>
+   <trkpt lat="49.74406" lon="13.372381"><ele>329.75</ele></trkpt>
+   <trkpt lat="49.744276" lon="13.372443"><ele>329.5</ele></trkpt>
+   <trkpt lat="49.744401" lon="13.372481"><ele>329.25</ele></trkpt>
+   <trkpt lat="49.745013" lon="13.372664"><ele>327.5</ele></trkpt>
+   <trkpt lat="49.745157" lon="13.372706"><ele>326.5</ele></trkpt>
+   <trkpt lat="49.745318" lon="13.372753"><ele>325.5</ele></trkpt>
+   <trkpt lat="49.745614" lon="13.372868"><ele>323.75</ele></trkpt>
+   <trkpt lat="49.745838" lon="13.372975"><ele>323</ele></trkpt>
+   <trkpt lat="49.746372" lon="13.37327"><ele>321.25</ele></trkpt>
+   <trkpt lat="49.746577" lon="13.373371"><ele>320.25</ele></trkpt>
+   <trkpt lat="49.746607" lon="13.373385"><ele>320.25</ele></trkpt>
+   <trkpt lat="49.746907" lon="13.373522"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.746939" lon="13.373535"><ele>319.25</ele></trkpt>
+   <trkpt lat="49.746965" lon="13.373546"><ele>319.25</ele></trkpt>
+   <trkpt lat="49.747192" lon="13.373643"><ele>319</ele></trkpt>
+   <trkpt lat="49.74724" lon="13.373663"><ele>319</ele></trkpt>
+   <trkpt lat="49.747853" lon="13.373907"><ele>317.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

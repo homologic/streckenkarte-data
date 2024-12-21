@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1088 filtered ascend = 6 plain-ascend = -4 cost=2176 energy=0.0kwh time=1m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Grenoble (1.1km)</name>
+  <trkseg>
+   <trkpt lat="45.179553" lon="5.716211"><ele>222.75</ele></trkpt>
+   <trkpt lat="45.179769" lon="5.716285"><ele>222.75</ele></trkpt>
+   <trkpt lat="45.180085" lon="5.716395"><ele>223.5</ele></trkpt>
+   <trkpt lat="45.180182" lon="5.716429"><ele>224</ele></trkpt>
+   <trkpt lat="45.180219" lon="5.716443"><ele>224.25</ele></trkpt>
+   <trkpt lat="45.180343" lon="5.71648"><ele>225.25</ele></trkpt>
+   <trkpt lat="45.180373" lon="5.716488"><ele>225.5</ele></trkpt>
+   <trkpt lat="45.1805" lon="5.71653"><ele>226.5</ele></trkpt>
+   <trkpt lat="45.180659" lon="5.716585"><ele>228</ele></trkpt>
+   <trkpt lat="45.180696" lon="5.716597"><ele>228.5</ele></trkpt>
+   <trkpt lat="45.180778" lon="5.716622"><ele>229.25</ele></trkpt>
+   <trkpt lat="45.181664" lon="5.716922"><ele>225.25</ele></trkpt>
+   <trkpt lat="45.182716" lon="5.717277"><ele>217.25</ele></trkpt>
+   <trkpt lat="45.182798" lon="5.717304"><ele>217.25</ele></trkpt>
+   <trkpt lat="45.182978" lon="5.717363"><ele>216.75</ele></trkpt>
+   <trkpt lat="45.183052" lon="5.717388"><ele>216.75</ele></trkpt>
+   <trkpt lat="45.183774" lon="5.717641"><ele>216.5</ele></trkpt>
+   <trkpt lat="45.183793" lon="5.717648"><ele>216.75</ele></trkpt>
+   <trkpt lat="45.184163" lon="5.717775"><ele>217.75</ele></trkpt>
+   <trkpt lat="45.184472" lon="5.717868"><ele>217.5</ele></trkpt>
+   <trkpt lat="45.184518" lon="5.717883"><ele>217.5</ele></trkpt>
+   <trkpt lat="45.184591" lon="5.717906"><ele>217.25</ele></trkpt>
+   <trkpt lat="45.184858" lon="5.717992"><ele>216.75</ele></trkpt>
+   <trkpt lat="45.185122" lon="5.718082"><ele>216.75</ele></trkpt>
+   <trkpt lat="45.185755" lon="5.718298"><ele>219.5</ele></trkpt>
+   <trkpt lat="45.185864" lon="5.718335"><ele>220</ele></trkpt>
+   <trkpt lat="45.185966" lon="5.71837"><ele>220</ele></trkpt>
+   <trkpt lat="45.186788" lon="5.718649"><ele>219.75</ele></trkpt>
+   <trkpt lat="45.187185" lon="5.718783"><ele>220</ele></trkpt>
+   <trkpt lat="45.187925" lon="5.719032"><ele>219.5</ele></trkpt>
+   <trkpt lat="45.187989" lon="5.719053"><ele>219.25</ele></trkpt>
+   <trkpt lat="45.188063" lon="5.719078"><ele>219</ele></trkpt>
+   <trkpt lat="45.188132" lon="5.719101"><ele>218.75</ele></trkpt>
+   <trkpt lat="45.188658" lon="5.719275"><ele>217.5</ele></trkpt>
+   <trkpt lat="45.188925" lon="5.719371"><ele>217.5</ele></trkpt>
+   <trkpt lat="45.189119" lon="5.719438"><ele>217.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
