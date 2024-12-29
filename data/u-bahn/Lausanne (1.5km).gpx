@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1513 filtered ascend = 0 plain-ascend = -56 cost=3026 energy=0.0kwh time=2m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Lausanne (1.5km)</name>
+  <trkseg>
+   <trkpt lat="46.520581" lon="6.630514"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.520345" lon="6.630449"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.519061" lon="6.630063"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.517974" lon="6.629747"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.517862" lon="6.629753"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.517526" lon="6.629652"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.517093" lon="6.629525"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.515199" lon="6.628955"><ele>438.5</ele></trkpt>
+   <trkpt lat="46.515144" lon="6.628899"><ele>437.75</ele></trkpt>
+   <trkpt lat="46.51492" lon="6.628842"><ele>435</ele></trkpt>
+   <trkpt lat="46.51475" lon="6.628792"><ele>432.75</ele></trkpt>
+   <trkpt lat="46.514303" lon="6.628658"><ele>427</ele></trkpt>
+   <trkpt lat="46.514118" lon="6.628604"><ele>425</ele></trkpt>
+   <trkpt lat="46.512485" lon="6.628123"><ele>414</ele></trkpt>
+   <trkpt lat="46.512225" lon="6.628048"><ele>412.25</ele></trkpt>
+   <trkpt lat="46.509894" lon="6.627316"><ele>396.75</ele></trkpt>
+   <trkpt lat="46.507929" lon="6.626735"><ele>383.5</ele></trkpt>
+   <trkpt lat="46.507873" lon="6.626738"><ele>383.25</ele></trkpt>
+   <trkpt lat="46.507825" lon="6.626704"><ele>383</ele></trkpt>
+   <trkpt lat="46.507592" lon="6.626635"><ele>381.5</ele></trkpt>
+   <trkpt lat="46.507242" lon="6.62653"><ele>381.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
