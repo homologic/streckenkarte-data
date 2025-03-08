@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2095 filtered ascend = 8 plain-ascend = 6 cost=2095 energy=0.0kwh time=2m 48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Stadtbezirk Bonn (2.1km)</name>
+  <trkseg>
+   <trkpt lat="50.740363" lon="7.069438"><ele>55.25</ele></trkpt>
+   <trkpt lat="50.740368" lon="7.069492"><ele>55.25</ele></trkpt>
+   <trkpt lat="50.740375" lon="7.069711"><ele>55</ele></trkpt>
+   <trkpt lat="50.740374" lon="7.06992"><ele>54.75</ele></trkpt>
+   <trkpt lat="50.740361" lon="7.070194"><ele>54.75</ele></trkpt>
+   <trkpt lat="50.74033" lon="7.070553"><ele>55</ele></trkpt>
+   <trkpt lat="50.740294" lon="7.070801"><ele>55.25</ele></trkpt>
+   <trkpt lat="50.740222" lon="7.071201"><ele>55.75</ele></trkpt>
+   <trkpt lat="50.740124" lon="7.071677"><ele>56.5</ele></trkpt>
+   <trkpt lat="50.739971" lon="7.07228"><ele>55.75</ele></trkpt>
+   <trkpt lat="50.739886" lon="7.072583"><ele>55.75</ele></trkpt>
+   <trkpt lat="50.739738" lon="7.073057"><ele>56</ele></trkpt>
+   <trkpt lat="50.739622" lon="7.073396"><ele>56.25</ele></trkpt>
+   <trkpt lat="50.739374" lon="7.074033"><ele>56.75</ele></trkpt>
+   <trkpt lat="50.739365" lon="7.074058"><ele>56.75</ele></trkpt>
+   <trkpt lat="50.739235" lon="7.074357"><ele>57</ele></trkpt>
+   <trkpt lat="50.738183" lon="7.076557"><ele>60.25</ele></trkpt>
+   <trkpt lat="50.738023" lon="7.076893"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.737767" lon="7.07746"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.737448" lon="7.07825"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.737146" lon="7.07912"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.737073" lon="7.079331"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.736951" lon="7.079718"><ele>61.25</ele></trkpt>
+   <trkpt lat="50.736865" lon="7.080036"><ele>62</ele></trkpt>
+   <trkpt lat="50.736717" lon="7.080511"><ele>62</ele></trkpt>
+   <trkpt lat="50.736556" lon="7.081334"><ele>61.25</ele></trkpt>
+   <trkpt lat="50.736464" lon="7.081747"><ele>61.25</ele></trkpt>
+   <trkpt lat="50.736222" lon="7.082742"><ele>62.75</ele></trkpt>
+   <trkpt lat="50.736164" lon="7.083002"><ele>63.5</ele></trkpt>
+   <trkpt lat="50.736115" lon="7.083216"><ele>64</ele></trkpt>
+   <trkpt lat="50.73588" lon="7.084257"><ele>63.75</ele></trkpt>
+   <trkpt lat="50.735385" lon="7.086531"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.734872" lon="7.08881"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.734786" lon="7.089194"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.734502" lon="7.090476"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.734297" lon="7.091227"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.7339" lon="7.092457"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733516" lon="7.093657"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733473" lon="7.093858"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733427" lon="7.09412"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733408" lon="7.09429"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733349" lon="7.094574"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733224" lon="7.09503"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.733141" lon="7.095335"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.732928" lon="7.096086"><ele>60.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
