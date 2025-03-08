@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 669 filtered ascend = 2 plain-ascend = 2 cost=1338 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Szczecin (0.7km)</name>
+  <trkseg>
+   <trkpt lat="53.418576" lon="14.551519"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.418771" lon="14.551899"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.418872" lon="14.552096"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.418958" lon="14.552319"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.41901" lon="14.552421"><ele>5</ele></trkpt>
+   <trkpt lat="53.419045" lon="14.552491"><ele>5</ele></trkpt>
+   <trkpt lat="53.419531" lon="14.553443"><ele>2</ele></trkpt>
+   <trkpt lat="53.419593" lon="14.553598"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.419789" lon="14.554159"><ele>0</ele></trkpt>
+   <trkpt lat="53.419827" lon="14.554268"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.419878" lon="14.55441"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.419915" lon="14.554489"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.419975" lon="14.554583"><ele>-1</ele></trkpt>
+   <trkpt lat="53.42011" lon="14.554732"><ele>0</ele></trkpt>
+   <trkpt lat="53.420154" lon="14.554802"><ele>0</ele></trkpt>
+   <trkpt lat="53.420202" lon="14.554905"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.420262" lon="14.555038"><ele>1</ele></trkpt>
+   <trkpt lat="53.420327" lon="14.555174"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.42049" lon="14.555446"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.420524" lon="14.555503"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.420637" lon="14.555678"><ele>3</ele></trkpt>
+   <trkpt lat="53.420667" lon="14.555715"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.420764" lon="14.555819"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.420873" lon="14.555903"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.420957" lon="14.555962"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.421016" lon="14.556025"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.421164" lon="14.556227"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.421478" lon="14.556662"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.421586" lon="14.556846"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.422509" lon="14.558806"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.422572" lon="14.55894"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
