@@ -13,7 +13,8 @@
 				"vollbahn": {"color": "purple", "width": 2, "humanname": "Bahn"},
 				"tram": {"color": "red", "width": 1.5, "humanname": "Straßenbahn"},
 				"ubahn": {"color": "blue", "width": 1.5, "humanname": "U-Bahn"},
-				"gadgetbahn": {"color": "green", "width": 1.5, "humanname": "Seilbahn/Schwebebahn/Gadgetbahn"}
+				"gadgetbahn": {"color": "green", "width": 1.5, "humanname": "Seilbahn/Schwebebahn/Gadgetbahn"},
+				"obus": {"color": "HotPink", "width": 1.5, "humanname": "Oberleitungsbus", "brouter-profile": "car-fast" }
 		},
 		"maxZoom": 12
 }
